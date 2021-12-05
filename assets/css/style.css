@@ -50,16 +50,19 @@ header a {
     background-size: cover;
     background-position: center;
 }
+/*Styles hero div*/
 
 .float-left {
     float: left;
     margin-right: 25px;
 }
+/*Floats first and third image left*/
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
+/*Floats second image right*/
 
 .content {
     width: 75%;
@@ -67,6 +70,7 @@ header a {
     margin-left: 20px;
     font-size: 16px;
 }
+/*Styles content in content class*/
 
 .linked-content {
     margin-bottom: 20px;
