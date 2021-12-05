@@ -8,3 +8,4 @@
 - I learned how to identify issues within code and amend it, the importance of accessibility standards and how to meet them, and how to consolidate CSS while maintaining its style. Also how vital semantic elements are to making the code understandable and structured.    
 
 <img width="960" alt="2021-12-03 (1)" src="https://user-images.githubusercontent.com/93964501/144689346-3bdbaf64-a3a1-46d2-8688-203375a7bca4.png">
+https://rtthiel8.github.io/Code-Refactor-Challenge/
